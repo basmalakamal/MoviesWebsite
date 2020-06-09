@@ -1,0 +1,6 @@
+class
+instance
+instructor
+self
+instance variables
+instance method
